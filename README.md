@@ -16,6 +16,6 @@ Prazer, meu nome é Felipe, estudante do 3º período de **Sistemas para Interne
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dornelas-2b3214208/)
  
-## Projetos:
+## 💡 Projetos:
 
-**Landing page Igreja:** https://felpsdornelas.github.io/PWE/Church%20City/
+**Landing page Church City:** https://felpsdornelas.github.io/PWE/Church%20City/
