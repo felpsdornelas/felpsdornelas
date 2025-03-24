@@ -2,7 +2,7 @@
  
 Prazer, meu nome é Felipe, estudante do 3º período de **Sistemas para Internet** no **Instituto Federal do Triângulo Mineiro**. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir no mundo do desenvolvimento de software.
  
-##  👤 Sobre mim:
+##  Sobre mim:
  
 - 📍 Uberlândia - MG, 20 anos.
 - 🚀 Buscando oportunidade para ingressar na área de tecnologia
