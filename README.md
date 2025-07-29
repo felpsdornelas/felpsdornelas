@@ -23,6 +23,6 @@ Prazer, meu nome é Felipe, estudante do 3º período de **Sistemas para Interne
  
 ## 💡 Projetos:
 
-- **Landing page Consultoria Viagens - Projeto Real** https://raquel-rocha-consultoria.vercel.app
-- - **Jogo par ou ímpar utilizando LocalStorage para login:** https://felpsdornelas.github.io/JSB/JogoEhPar/
-- **Landing page Church City:** https://felpsdornelas.github.io/PWE/Church%20City/
+- **Landing page Consultoria Viagens - Projeto Real:** https://raquel-rocha-consultoria.vercel.app
+- **Jogo par ou ímpar utilizando LocalStorage para login:** https://felpsdornelas.github.io/JSB/JogoEhPar/
+- **Landing page Igreja Church City:** https://felpsdornelas.github.io/PWE/Church%20City/
